@@ -1,4 +1,4 @@
-# bikesharing
+# Bike-Sharing
 
 ## Overview
 The purpose of this project is to visualize bike-sharing data from New York city to:
@@ -10,16 +10,21 @@ The purpose of this project is to visualize bike-sharing data from New York city
 Using Tableau, we created the following visuals:
 
 ### Customer Information
+![Customer Info](/Resources/Customer_info.PNG)
 
 ### Checkout Times for Users
+![CheckoutUsers](/Resources/Checkout_users.PNG)
 
 ### Checkout Times by Gender
+![CheckoutGenders](/Resources/Checkout_gender.PNG)
 
 ### Trips by Gender (Weekday per Hour)
+![Tripsgender](/Resources/Weekday_gender.PNG)
 
 ### Trips by Weekday per Hour
+![Tripsweekday](/Resources/Weekday_hour.PNG)
 
 ### User Trips by Gender by Weekday
-
+![Usertrips](/Resources/Weekday_usertype.PNG)
 
 ## Summary
