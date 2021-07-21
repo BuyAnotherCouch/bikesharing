@@ -1,4 +1,4 @@
-# Bike-Sharing
+# Bike Sharing Analysis
 
 ## Overview
 The purpose of this project is to visualize bike-sharing data from New York city to:
